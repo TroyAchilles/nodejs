@@ -1,0 +1,22 @@
+{
+    "name": "webserver",
+    "version": "1.0.0",
+    "description": "Hello webserver example with async",
+    "main": "webserver.js",
+    "scripts": {
+        "start": "node webserver.js"
+    },
+    "keywords": [
+        "koa",
+        "async"
+    ],
+    "author": "Chenlong Dong",
+    "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/TroyAchilles/node-js.git"
+    },
+    "dependencies": {
+        "koa": "2.0.0"
+    }
+}
